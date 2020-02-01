@@ -1,7 +1,6 @@
 import requests
 import conf
 from requests import Response
-import json
 
 jira_headers = {'Authorization': 'Basic ' + conf.api_token,
               'Content-Type': 'application/json'}
