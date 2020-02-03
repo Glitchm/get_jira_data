@@ -1,3 +1,9 @@
+## Usage
+
+```
+python3 app.py
+```
+
 ## Python version required:
 
 ```
